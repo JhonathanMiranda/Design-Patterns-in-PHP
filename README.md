@@ -2,6 +2,8 @@
 
 Este repositório contém alguns exemplos de implementações de padrões de projeto (Design Patterns) em PHP. Esses exemplos foram utilizados como material de apoio para a apresentação sobre o tema, realizada através da comunidade [PHP Manaus](https://phpmanaus.com.br/) em 01/2026.
 
+[Slides da apresentação](https://www.canva.com/design/DAG-yF4YhyE/w9N6gJgxOlkMD65mQyiR3g/edit?utm_content=DAG-yF4YhyE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Padrões Abordados
 
 ### 1. Fábrica Abstrata
